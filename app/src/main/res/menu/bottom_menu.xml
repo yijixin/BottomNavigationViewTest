@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_call"
+          android:title="Call"
+          android:icon="@android:drawable/ic_menu_call"/>
+    <item android:id="@+id/action_camera"
+          android:title="Camera"
+          android:icon="@android:drawable/ic_menu_camera"/>
+    <item android:id="@+id/action_agenda"
+          android:title="Agenda"
+          android:icon="@android:drawable/ic_menu_agenda"/>
+    <item android:id="@+id/action_crop"
+          android:title="Crop"
+          android:icon="@android:drawable/ic_menu_crop"/>
+    <item android:id="@+id/action_help"
+          android:title="Help"
+          android:icon="@android:drawable/ic_menu_help"/>
+</menu>
